@@ -25,4 +25,4 @@ Pull reuestler kabul edilir. Büyük degisiklikler icin, lütfen önce neyi degi
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Proje Görseli]()
+![Proje Görseli]("C:\Users\yilma\OneDrive\Documents\VS Code\Project 1\kodluyoruzilkrepo\Screenshot 2022-10-16 205608.png")
